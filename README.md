@@ -3,7 +3,9 @@
 ## Submission Information
 
 **Full Name:** Dương Hoàng Lan Anh
+
 **Student ID:** 21087481
+
 **Course:** Introduction to Big Data
 
 ---
