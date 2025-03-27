@@ -21,3 +21,13 @@ The `w6_21087481_DuongHoangLanAnh.py` file includes the following main steps:
 7.  **Create Query Engine Tools:** Packages Query Engines into tools.
 8.  **Create Router Query Engine:** Sets up RouterQueryEngine for coordination.
 9.  **Use the RAG system:** Poses example questions and prints the answers.
+
+---
+
+## Results
+
+Homepage
+![Homepage](proof_images/RAG_System_Homepage.png)
+
+QA
+![QA](proof_images/RAG_System_QA.png)
