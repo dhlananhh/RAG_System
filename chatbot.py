@@ -34,7 +34,7 @@ def initialize_models():
     print("--- Khởi tạo (hoặc lấy từ cache) mô hình LLM và Embedding ---")
     try:
         Settings.llm = Gemini(
-            api_key=GEMINI_API_KEY, model_name="models/gemini-1.5-pro-latest"
+            api_key=GEMINI_API_KEY, model_name="models/gemini-2.0-flash"
         )
         Settings.embed_model = GeminiEmbedding(
             api_key=GEMINI_API_KEY, model_name="models/embedding-001"
